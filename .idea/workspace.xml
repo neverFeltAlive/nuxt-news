@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e57570bd-b564-42cb-a0af-eae9239cb202" name="Changes" comment="">
+    <list default="true" id="e57570bd-b564-42cb-a0af-eae9239cb202" name="Changes" comment="stylelint added">
       <change beforePath="$PROJECT_DIR$/nuxt.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/nuxt.config.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
@@ -49,11 +49,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685282054643</updated>
-      <workItem from="1685282055542" duration="521000" />
+      <workItem from="1685282055542" duration="608000" />
     </task>
+    <task id="LOCAL-00001" summary="stylelint added">
+      <created>1685282627202</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685282627202</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="stylelint added" />
+    <option name="LAST_COMMIT_MESSAGE" value="stylelint added" />
   </component>
 </project>
