@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e57570bd-b564-42cb-a0af-eae9239cb202" name="Changes" comment="eslint added">
+    <list default="true" id="e57570bd-b564-42cb-a0af-eae9239cb202" name="Changes" comment="prettier and final configuration added">
+      <change beforePath="$PROJECT_DIR$/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +15,10 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBowerSettings">
+    <bower-package value="" />
+    <bower.json value="" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -33,10 +36,16 @@
     "git-widget-placeholder": "develop",
     "last_opened_file_path": "D:/programming/web/selfdev/nuxt-news",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.stylelint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.stylelint": "D:\\programming\\web\\selfdev\\nuxt-news\\node_modules\\stylelint",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "D:\\programming\\web\\selfdev\\nuxt-news\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "configurable.stylesheets.stylelint",
     "ts.external.directory.path": "C:\\Users\\martinluthorking\\AppData\\Local\\JetBrains\\Toolbox\\apps\\WebStorm\\ch-0\\231.9011.35\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
@@ -49,7 +58,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685282054643</updated>
-      <workItem from="1685282055542" duration="1257000" />
+      <workItem from="1685282055542" duration="1495000" />
+      <workItem from="1685283579488" duration="186000" />
     </task>
     <task id="LOCAL-00001" summary="stylelint added">
       <created>1685282627202</created>
@@ -65,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685282852798</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="prettier and final configuration added">
+      <created>1685283351189</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685283351189</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,6 +91,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="stylelint added" />
     <MESSAGE value="eslint added" />
-    <option name="LAST_COMMIT_MESSAGE" value="eslint added" />
+    <MESSAGE value="prettier and final configuration added" />
+    <option name="LAST_COMMIT_MESSAGE" value="prettier and final configuration added" />
   </component>
 </project>
